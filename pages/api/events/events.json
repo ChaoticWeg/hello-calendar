@@ -1,0 +1,30 @@
+{
+    "events": [
+        {
+            "id": "fd1de6e4-b891-475e-a2a8-5cddb515d41c",
+            "title": "Test Event 1",
+            "start": "2022-02-05T06:00:00.000Z",
+            "end": "2022-02-07T05:59:59.999Z",
+            "allDay": true
+        },
+        {
+            "id": "98a43221-95f8-4c7e-84a7-d904ab3c3a5f",
+            "title": "Test Event 2",
+            "start": "2022-02-08T15:00:00.000Z",
+            "end": "2022-02-08T23:00:00.000Z"
+        },
+        {
+            "id": "5de82507-ad6b-4467-ada9-b3cbee12412b",
+            "title": "Test Event 3",
+            "start": "2022-02-09T15:00:00.000Z",
+            "end": "2022-02-09T23:00:00.000Z"
+        },
+        {
+            "id": "3343aa64-e38d-42d9-a955-d7bb78816a7a",
+            "title": "Test Event 4",
+            "start": "2022-02-13T06:00:00.000Z",
+            "end": "2022-02-16T05:59:59.999Z",
+            "allDay": true
+        }
+    ]
+}
